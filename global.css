@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --web-body-semibold: Inter;
+
+  /* font sizes */
+  --web-subheader-regular-size: 0.75rem;
+  --web-body-semibold-size: 1rem;
+  --web-headings-heading-1-size: 2.13rem;
+  --web-link-semibold-size: 0.88rem;
+  --web-headings-heading-3-size: 1.25rem;
+  --web-highlight-regular-size: 1.13rem;
+  --web-headings-heading-2-size: 1.5rem;
+
+  /* Colors */
+  --light-mode-semantic-info-lightest: #f9fafb;
+  --light-mode-backgrounds-web: #f3f4f6;
+  --light-mode-neutrals-grey-neutrals-40: #9ca3af;
+  --light-mode-primary-darker: #0e2391;
+  --light-mode-typography-danger: #e22853;
+  --light-mode-neutrals-white-neutrals-00: #fff;
+  --light-mode-typography-info-darkest: #111827;
+  --color-mediumslateblue-100: #7b61ff;
+  --light-mode-primary-default: #1c3fca;
+  --color-mediumslateblue-200: rgba(123, 97, 255, 0.1);
+  --light-mode-charts-1-default: #d94ce6;
+  --light-mode-typography-support: #6b7280;
+  --light-mode-component-specific-input-border: #c5c5c5;
+  --light-mode-neutrals-black-neutrals-100: #000;
+  --light-mode-primary-lightest: #ecf1fd;
+  --light-mode-neutrals-light-neutrals-30: #d2d5db;
+  --light-mode-neutrals-lighter-neutrals-20: #e5e7eb;
+  --light-mode-primary-lighter: #a3baf9;
+
+  /* Gaps */
+  --gap-5xl: 1.5rem;
+  --gap-9xs: 0.25rem;
+  --gap-5xs: 0.5rem;
+  --gap-base: 1rem;
+  --gap-13xl: 2rem;
+  --gap-12xs: 0.06rem;
+  --gap-3xs: 0.63rem;
+  --gap-21xl: 2.5rem;
+  --gap-3xl: 1.38rem;
+  --gap-41xl: 3.75rem;
+  --gap-11xs: 0.13rem;
+
+  /* Paddings */
+  --padding-5xl: 1.5rem;
+  --padding-5xs: 0.5rem;
+  --padding-9xs: 0.25rem;
+  --padding-10xs: 0.19rem;
+  --padding-8xs: 0.31rem;
+  --padding-7xs: 0.38rem;
+  --padding-13xl: 2rem;
+  --padding-base: 1rem;
+  --padding-xs: 0.75rem;
+  --padding-11xs: 0.13rem;
+  --padding-4xs: 0.56rem;
+  --padding-12xs: 0.06rem;
+  --padding-3xs: 0.63rem;
+  --padding-xl: 1.25rem;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-5xl: 24px;
+  --br-3xs: 10px;
+  --br-base: 16px;
+  --br-5xs: 8px;
+  --br-9xs: 4px;
+  --br-11xs: 2px;
+  --br-xl: 20px;
+
+  /* Effects */
+  --small-shadow: 0px 4px 9px rgba(0, 0, 0, 0.12);
+  --medium-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1);
+}
